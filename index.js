@@ -43,7 +43,7 @@ let PI=3.14;
 console.log(PI);
 
 
-//__________________________ DataType
+//____________________DataType
 
 //1: Primitive = mean fixed. They r 7. num, string,boolean,undefined,null,bigint,symbol
 //2: Non-Primmitive = Objects
